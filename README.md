@@ -132,7 +132,4 @@ Open the notebook using Jupyter Notebook or VS Code.
 
 ---
 
-## Author
 
-Abdulrahman Wahba
-Faculty of Computers and Information
